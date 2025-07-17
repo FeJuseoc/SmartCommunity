@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/qss/style-1.qss</file>
+        <file>res/qss/style-2.qss</file>
+        <file>res/qss/style-3.qss</file>
+        <file>res/qss/style-4.qss</file>
+        <file>res/pic/1.png</file>
+        <file>res/pic/2.png</file>
+        <file>res/pic/3.png</file>
+        <file>res/pic/4.png</file>
+        <file>res/pic/background-1.png</file>
+        <file>res/pic/background-2.png</file>
+        <file>res/pic/background-3.png</file>
+        <file>res/pic/background-4.png</file>
+        <file>res/pic/pwd.png</file>
+        <file>res/pic/user_name.png</file>
+        <file>res/pic/screen.png</file>
+        <file>image/close.png</file>
+        <file>image/close-hover.png</file>
+        <file>image/DSC.png</file>
+        <file>image/DT.png</file>
+        <file>image/log.png</file>
+        <file>image/menu.png</file>
+        <file>image/menu-hover.png</file>
+        <file>image/minimize.png</file>
+        <file>image/minimize-hover.png</file>
+        <file>image/pci.png</file>
+        <file>image/PT.png</file>
+        <file>image/screen.png</file>
+        <file>image/shadow.png</file>
+        <file>image/back.jpg</file>
+        <file>image/back2.jpg</file>
+        <file>image/back1.png</file>
+    </qresource>
+</RCC>
