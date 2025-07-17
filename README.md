@@ -23,7 +23,7 @@ Qt 开发环境（建议使用 Qt 5 及以上版本）
 克隆项目到本地：
 
 bash
-git clone https://github.com/your-repo/community-management-system.git
+git clone [https://github.com/your-repo/community-management-system.git](https://github.com/FeJuseoc/SmartCommunity/blob/main/README.md)
 
 打开 Qt Creator，选择 File -> Open File or Project，选择项目根目录下的 .pro 文件。
 配置项目的编译套件和运行环境。
